@@ -14,7 +14,7 @@
 
 ### 🚀 About Me
 
-I'm **Kittinart Jankaew**, a **4th-year Computer Engineering** student at **Prince of Songkla University**. I’m passionate about **web development**, **software development**, and have a strong interest in **mobile app development**, networking, and **IoT solutions**. Always eager to learn, I enjoy tackling challenges and improving my skills.
+I'm **Kittinart Jankaew**, a **4th-year Computer Engineering** student at **Prince of Songkla University**. I'm passionate about **web development**, **software development**, and have a strong interest in **mobile app development**, networking, and **IoT solutions**. Always eager to learn, I enjoy tackling challenges and improving my skills.
 
 - 🔭 Currently working on **[Supplies Inventory Management System](https://github.com/ProjectDevTeams/Supplies-Inventory-Management-System)**
 - 👨‍💻 All my projects are available at **[GitHub](https://github.com/kittinartgithub)**
@@ -26,173 +26,46 @@ I'm **Kittinart Jankaew**, a **4th-year Computer Engineering** student at **Prin
 
 <h2 align="center">🛠️ Languages & Tools</h2>
 
-<h3 align="center">Programming Languages</h3>
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" alt="C" />
-        <br>C
-      </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
-        <br>C++
-      </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
-        <br>C#
-      </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-        <br>JavaScript
-      </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-        <br>TypeScript
-      </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-        <br>Python
-      </td>
-    </tr>
-  </table>
+
+**Programming Languages**  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+
+**Frontend Development**  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vue/vue-original-wordmark.svg" width="40" height="40" alt="Vue.js" />
+
+**Mobile App Development**  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40" alt="Android" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="40" height="40" alt="Dart" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React Native" />
+
+**Database & Backend**  
+<img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" />
+<img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL" />
+<img src="https://skillicons.dev/icons?i=postgresql" width="40" height="40" alt="PostgreSQL" />
+<img src="https://skillicons.dev/icons?i=firebase" width="40" height="40" alt="Firebase" />
+
+**DevOps & Tools**  
+<img src="https://skillicons.dev/icons?i=aws" width="40" height="40" alt="AWS" />
+<img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" />
+<img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" />
+<img src="https://skillicons.dev/icons?i=opencv" width="40" height="40" alt="OpenCV" />
+
+**Design & Other Tools**  
+<img src="https://skillicons.dev/icons?i=photoshop" width="40" height="40" alt="Photoshop" />
+<img src="https://skillicons.dev/icons?i=figma" width="40" height="40" alt="Figma" />
+<img src="https://skillicons.dev/icons?i=unity" width="40" height="40" alt="Unity" />
+
 </div>
-
-<h3 align="center">Frontend Development</h3>
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="48" height="48" alt="React" />
-        <br>React
-      </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="48" height="48" alt="CSS3" />
-        <br>CSS3
-      </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48" height="48" alt="HTML5" />
-        <br>HTML5
-      </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vue/vue-original-wordmark.svg" width="48" height="48" alt="Vue.js" />
-        <br>Vue.js
-      </td>
-    </tr>
-  </table>
-</div>
-
-<h3 align="center">Mobile App Development</h3>
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="48" height="48" alt="Android" />
-        <br>Android
-      </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="48" height="48" alt="Flutter" />
-        <br>Flutter
-      </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="48" height="48" alt="Dart" />
-        <br>Dart
-      </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="48" height="48" alt="React Native" />
-        <br>React Native
-      </td>
-    </tr>
-  </table>
-</div>
-
-
-
-<h3 align="center">AI/ML</h3>
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" />
-        <br>OpenCV
-      </td>
-    </tr>
-  </table>
-</div>
-
-<h3 align="center">Database</h3>
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-        <br>MongoDB
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-        <br>MySQL
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
-        <br>PostgreSQL
-      </td>
-    </tr>
-  </table>
-</div>
-
-<h3 align="center">DevOps</h3>
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
-        <br>AWS
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-        <br>Docker
-      </td>
-    </tr>
-  </table>
-</div>
-
-<h3 align="center">Backend as a Service (BaaS)</h3>
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
-        <br>Firebase
-      </td>
-    </tr>
-  </table>
-</div>
-
-<h3 align="center">Other Software & Tools</h3>
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-        <br>Git
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=photoshop" width="48" height="48" alt="Photoshop" />
-        <br>Photoshop
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-        <br>Figma
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=unity" width="48" height="48" alt="Unity" />
-        <br>Unity
-      </td>
-    </tr>
-  </table>
-</div>
-
----
 
 <h2 align="center">📫 Let's Connect</h2>
 
