@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=false&width=500&lines=Computer+Engineering+Student;Full-Stack+Developer)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=false&width=500&lines=Computer+Engineering+Student)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=kittinartgithub&color=blueviolet&style=flat-square)](https://github.com/kittinartgithub)
 
