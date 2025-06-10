@@ -1,40 +1,102 @@
-<h1>Hi 👋, I'm Kittinart Jankaew</h1>
-A 4th-year Computer Engineering student at Prince of Songkla University, passionate about full-stack web development, software development, and embedded systems.
+# Hi 👋, I'm Kittinart Jankaew
 
-- 🔭 I’m currently working on [Supplies-Inventory-Management-System](https://github.com/ProjectDevTeams/Supplies-Inventory-Management-System)
-- 👨‍💻 All of my projects are available at [https://github.com/kittinartgithub](https://github.com/kittinartgithub)
-- 📫 How to reach me **kittinart_wave9283@hotmail.com**
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/kittinart-j101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kittinart jankaew" height="30" width="40" /></a>
-<a href="https://www.facebook.com/kittinart.kttn.wave/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kittinart jankaew" height="30" width="40" /></a>
-<a href="https://www.instagram.com/wavesplash.k/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wavesplash.k" height="30" width="40" /></a>
-</p>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=false&width=500&lines=Computer+Engineering+Student;Full-Stack+Developer)
 
-<h3 align="left">Languages and Tools:</h3>
+[![Profile Views](https://komarev.com/ghpvc/?username=kittinartgithub&color=blueviolet&style=flat-square)](https://github.com/kittinartgithub)
 
-<p align="left"> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
-</p>
+</div>
+
+---
+
+<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+
+### 🚀 About Me
+
+A **4th-year Computer Engineering student** at **Prince of Songkla University**, passionate about full-stack web development, software development, and embedded systems.
+
+- 🔭 Currently working on **[Supplies Inventory Management System](https://github.com/ProjectDevTeams/Supplies-Inventory-Management-System)**
+- 👨‍💻 All my projects are available at **[GitHub](https://github.com/kittinartgithub)**
+- 📫 Reach me at **kittinart_wave9283@hotmail.com**
+
+<br clear="right"/>
+
+---
+
+<h2 align="center">🛠️ Languages & Tools</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+        <br>JavaScript
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+        <br>TypeScript
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+        <br>React
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
+        <br>Vue.js
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+        <br>Node.js
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+        <br>Python
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+        <br>MongoDB
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+        <br>MySQL
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+        <br>AWS
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+        <br>Docker
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="Arduino" />
+        <br>Arduino
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+        <br>Git
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<h2 align="center">📫 Let's Connect</h2>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/kittinart-j101">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/kittinart.kttn.wave/">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&logoWidth=20" alt="Facebook"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/wavesplash.k/">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&logoWidth=20" alt="Instagram"/>
+  </a>
+</div>
