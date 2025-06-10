@@ -14,7 +14,7 @@
 
 ### 🚀 About Me
 
-A **4th-year Computer Engineering student** at **Prince of Songkla University**, passionate about full-stack web development, software development, and embedded systems.
+I'm **Kittinart Jankaew, a 4th-year Computer Engineering** student at **Prince of Songkla University.** I’m passionate about **web development, software development**, and have a strong interest in **mobile app development**, networking, and IoT solutions. Always eager to learn, I enjoy tackling challenges and improving my skills.
 
 - 🔭 Currently working on **[Supplies Inventory Management System](https://github.com/ProjectDevTeams/Supplies-Inventory-Management-System)**
 - 👨‍💻 All my projects are available at **[GitHub](https://github.com/kittinartgithub)**
