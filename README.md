@@ -40,7 +40,7 @@ I'm **Kittinart Jankaew**, a **4th-year Computer Engineering** student at **Prin
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vue/vue-original-wordmark.svg" width="40" height="40" alt="Vue.js" />
+
 
 **Mobile App Development**  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40" alt="Android" />
