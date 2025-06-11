@@ -9,24 +9,40 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=kittinartgithub&color=blueviolet&style=flat-square)](https://github.com/kittinartgithub)
 
-
-
-
 </div>
 
 ---
 
-### 🚀 About Me
+### 🚀 Terminal Interface Mode
 
-I'm **Kittinart Jankaew**, a **4th-year Computer Engineering** student at **Prince of Songkla University**. I'm passionate about **web development**, **software development**, and have a strong interest in **mobile app development**, networking, and **IoT solutions**. Always eager to learn, I enjoy tackling challenges and improving my skills.
+<div style="max-height: 300px; overflow-y: auto; background: #0d1117; color: #c9d1d9; padding: 1rem; border-radius: 8px; font-family: monospace; font-size: 14px;">
 
-- 🔭 Currently working on **[Supplies Inventory Management System](https://github.com/ProjectDevTeams/Supplies-Inventory-Management-System)**
-- 👨‍💻 All my projects are available at **[GitHub](https://github.com/kittinartgithub)**
-- 📫 Reach me at **kittinart_wave9283@hotmail.com**
+<pre>
+> whoami
+Kittinart Jankaew
 
-<br clear="right"/>
+> cat about.txt
+🧑‍💻  4th-year Computer Engineering student @ Prince of Songkla University
+🚀  Passionate about Web Dev, Software Dev, Mobile App, Networking, and IoT
+📚  Always eager to learn, solve challenges, and grow
 
----
+> ls ./projects
+📦 Supplies Inventory Management System
+🌐 github.com/kittinartgithub
+
+> contact --email
+📫 kittinart_wave9283@hotmail.com
+
+> ping github.com/kittinartgithub
+Pinging...
+✅ Response received: Projects loaded successfully.
+
+> logout
+See you on the next commit. 🚀
+</pre>
+
+</div>
+
 
 <h2 align="center">🛠️ Languages & Tools</h2>
 
