@@ -6,11 +6,12 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=kittinartgithub&color=blueviolet&style=flat-square)](https://github.com/kittinartgithub)
 
+<img align="center" alt="Coding" width="350" src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif">
+
+
 </div>
 
 ---
-
-<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ### 🚀 About Me
 
@@ -41,7 +42,6 @@ I'm **Kittinart Jankaew**, a **4th-year Computer Engineering** student at **Prin
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5" />
 
-
 **Mobile App Development**  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40" alt="Android" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter" />
@@ -67,6 +67,8 @@ I'm **Kittinart Jankaew**, a **4th-year Computer Engineering** student at **Prin
 
 </div>
 
+
+
 <h2 align="center">📫 Let's Connect</h2>
 
 <div align="center">
@@ -81,4 +83,8 @@ I'm **Kittinart Jankaew**, a **4th-year Computer Engineering** student at **Prin
   <a href="https://www.instagram.com/wavesplash.k/">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&logoWidth=20" alt="Instagram"/>
   </a>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions" />
 </div>
